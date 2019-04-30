@@ -1,0 +1,28 @@
+{
+  "name": "product_provenance",
+  "version": "1.0.0",
+  "description": "This box comes with everything you need to start using smart contracts from a react app. This is as barebones as it gets, so nothing stands in your way.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/msinphilpk/product_provenance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/msinphilpk/product_provenance/issues"
+  },
+  "homepage": "https://gitlab.com/msinphilpk/product_provenance#readme",
+  "dependencies": {
+    "ganache-cli": "^6.3.0",
+    "mocha": "^6.0.0",
+    "truffle-hdwallet-provider": "^1.0.4",
+    "web3": "1.0.0-beta.36"
+  }
+}

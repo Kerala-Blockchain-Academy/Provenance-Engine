@@ -10,15 +10,15 @@ This project is developed on Nodejs, truffle and React Frameworks. Follow the be
 
 1. Run the `install` commands for installing nodejs and npm.
 
-	(a) Adding PPA for stable nodejs version.<br>
-             `$ curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -`
+	(a) Adding PPA for stable nodejs version.
+          ``` curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -```
 
-	(b) Installing Nodejs and NPM.<br>
-             `$ sudo apt install nodejs`
+	(b) Installing Nodejs and NPM.
+           ``` sudo apt install nodejs```
 
-	(c) To check versions of nodejs and npm.<br>
-             `$ node -v` <br>
-             `$ npm -v`
+	(c) To check versions of nodejs and npm.
+            ``` node -v```
+            ```$ npm -v```
 
 
 2. Run the `install` commands for installing ganache-cli.<br>

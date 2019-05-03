@@ -1,13 +1,14 @@
 # Provenance-Engine #
 Product provenance through Supply-chain management.
 
-## Installation (Ubuntu Systems)##
+## Installation (Ubuntu Systems) ##
 
 After cloning the contents from gitlab, access the directory and install the following packages and follow the below instructions as required.
 
 This project is developed on Nodejs, truffle and React Frameworks. Follow the below instruction to install required frameworks and tools for running the project.  
 
-1. Run the install commands for installing nodejs and npm.
+1. Run the install commands for installing nodejs and npm.</br>
+
 (a) Adding PPA for stable nodejs version.
 ``` 
 curl -sL https://deb.nodesource.com/setup_10.x | sudo bash - 
@@ -19,18 +20,16 @@ sudo apt install nodejs
 (c) To check versions of nodejs and npm.
 ``` 
 node -v
-```
-```
 npm -v
 ```
 2. Run the install commands for installing ganache-cli.
 
 ```
-$ npm install -g ganache-cli
+npm install -g ganache-cli
 ```
 3. You have to install Truffle globally.
 ```
-$ npm install -g truffle
+npm install -g truffle
 ```
 ### Initialize Project ###
 
@@ -53,4 +52,4 @@ migrate
 cd client
 npm start`
 ```    
-#### Note: working demo and documentations are available in this project####
+#### Note: working demo and documentations are available in this project ####

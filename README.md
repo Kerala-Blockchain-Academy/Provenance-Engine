@@ -7,7 +7,7 @@ After cloning the contents from gitlab, access the directory and install the fol
 
 This project is developed on Nodejs, truffle and React Frameworks. Follow the below instruction to install required frameworks and tools for running the project.  
 
-1. Run the `install` commands for installing nodejs and npm.
+1. Run the install commands for installing nodejs and npm.
 (a) Adding PPA for stable nodejs version.
 ``` 
 curl -sL https://deb.nodesource.com/setup_10.x | sudo bash - 
@@ -23,12 +23,12 @@ node -v
 ```
 npm -v
 ```
-2. Run the `install` commands for installing ganache-cli.<br>
+2. Run the install commands for installing ganache-cli.
 
 ```
 $ npm install -g ganache-cli
 ```
-3. You have to install Truffle globally.<br>
+3. You have to install Truffle globally.
 ```
 $ npm install -g truffle
 ```
